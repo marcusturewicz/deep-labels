@@ -1,4 +1,4 @@
-﻿namespace Microsoft.ML.OnnxRuntime.FasterRcnnSample
+namespace DeepLabels
 {
     public class Coco
     {
