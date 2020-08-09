@@ -1,6 +1,6 @@
-﻿namespace Microsoft.ML.OnnxRuntime.ResNet50v2Sample
+namespace DeepLabels
 {
-    public class LabelMap
+    public class ImageNet
     {
         public static readonly string[] Labels = new[] {"tench",
                                                         "goldfish",
